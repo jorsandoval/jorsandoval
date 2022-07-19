@@ -1,4 +1,12 @@
-### Hi there 👋
+## _Hola! me llamo Jorge Sandoval_
+
+Estoy estuidando ingenieria informatica en Duoc UC, soy Titulado de Técnico en conectividad y redes de IPChile, actualmente trabajo como operador de sistemas informaticos. 
+
+Aquí encontrarás mi aprendizaje en:
+- Bases de datos (Oracle PLSQL)
+- HTML
+- Django
+- mas...
 
 <!--
 **jorsandoval/jorsandoval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
