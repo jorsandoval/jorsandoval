@@ -1,6 +1,7 @@
 ## _Hola! me llamo Jorge Sandoval_
 
-Estoy estuidando ingenieria informatica en Duoc UC, soy Titulado de Técnico en conectividad y redes de IPChile, actualmente trabajo como operador de sistemas informaticos. 
+Soy estudiante de ingenieria informatica en Duoc UC, además soy Titulado de Técnico en conectividad y redes de IPChile. 
+actualmente trabajo como operador de sistemas informaticos en Entel Call Center. 
 
 Aquí encontrarás mi aprendizaje en:
 - Bases de datos (Oracle PLSQL)
